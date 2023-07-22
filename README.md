@@ -21,6 +21,5 @@ LANGUAGE USED:- HTML & CSS<br>
 <br>
 The project is of MOBILE SCREEN.<br> It just look like the mobile home screen.<br> It is not working model but it works littlebit. When we click on google,youtube,twitter,instagram
 a new page gets open of login where we would search what we want.<br><br>
-<h5>The screen look likes same</h5>
-<img src="C:\Users\ASUS\Desktop\Apollo-bot35_Mobile-screen - Google Chrome 22-07-2023 12_27_05.png">
+
 
