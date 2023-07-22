@@ -12,3 +12,15 @@ LANGUAGE USED:- HTML & CSS<br>
 "Hypertext" refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.
 <br>
 <h2>CSS</h2>
+<UL>
+  <li>CSS stand for cascading sheet</li>
+  <li>CSS is the language we use to style an HTML document.</li>
+  <li>CSS describes how HTML elements should be displayed.</li>
+</UL>
+<br>
+<br>
+The project is of MOBILE SCREEN.<br> It just look like the mobile home screen.<br> It is not working model but it works littlebit. When we click on google,youtube,twitter,instagram
+a new page gets open of login where we would search what we want.<br><br>
+<h5>The screen look likes same</h5>
+<img src="C:\Users\ASUS\Desktop\Apollo-bot35_Mobile-screen - Google Chrome 22-07-2023 12_27_05.png">
+
